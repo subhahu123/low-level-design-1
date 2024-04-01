@@ -2,8 +2,6 @@
 
 ## Resources
 
-[LLDcoding - Machine Coding blogs - 55+ lld solutions](https://lldcoding.com)
-
 [work@tech - Machine Coding section](https://workat.tech/machine-coding)
 
 [RefactoringGuru - Design Patterns](https://refactoring.guru/design-patterns)
@@ -11,6 +9,8 @@
 [[O’Reilly] Head First Design Patterns Book](https://www.oreilly.com/library/view/head-first-design/0596007124/)
 
 [[Educative.io] Grokking the Low Level Design Interview](https://www.educative.io/courses/grokking-the-low-level-design-interview-using-ood-principles)
+
+[LLDcoding - Machine Coding blogs - 55+ lld solutions](https://lldcoding.com)
 
 [[Youtube] Christopher - Design patterns in OOPS](https://www.youtube.com/playlist?list=PLrhzvIcii6GNjpARdnO4ueTUAVR9eMBpc)
 
